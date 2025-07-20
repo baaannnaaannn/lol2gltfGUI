@@ -1,3 +1,5 @@
+You need a python and a .net to run this tool (https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-8.0.18-windows-x64-installer?cid=getdotnetcore)
+
 Since lol2gltf (https://github.com/Crauzer/lol2gltf) no longer has a GUI since version 3.0.4, I made it for myself.
 
 I. Running lol2gltf.bat file:
