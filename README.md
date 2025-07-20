@@ -17,4 +17,4 @@ II. Running lol2gltf.py file:
 .
 
 all credits goes to - https://www.youtube.com/watch?v=h9_NLzIP-pU
-channel name - https://www.youtube.com/@TrueRedBear
+channel name - https://www.youtube.com/@TrueRedBear and https://github.com/Crauzer/lol2gltf for original utility
